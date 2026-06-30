@@ -1,0 +1,7 @@
+temporalio
+fastapi
+uvicorn
+asyncpg
+pytest
+pytest-asyncio
+pydantic
